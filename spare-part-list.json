@@ -465,7 +465,7 @@
 {"id":"464","nomorstok":"90459-2347","deskripsistok":"Belt ( 90459-2347 )","lokasi":"32C","stokakhir":"1","tipe":"TetraPax Straw Applicator","imageurl":"https://i.postimg.cc/ZnRhz8P6/464.jpg"},
 {"id":"465","nomorstok":"1528489-0000","deskripsistok":"Feed Wheel","lokasi":"No Loc","stokakhir":"0","tipe":"TetraPax Straw Applicator","imageurl":"No Image"},
 {"id":"466","nomorstok":"SPCOM00080","deskripsistok":"Lampu 24 V 3 watt","lokasi":"2E","stokakhir":"0","tipe":"Elektrik","imageurl":"No Image"},
-{"id":"467","nomorstok":"SPICM00047","deskripsistok":"Lampu Philiphs 60","lokasi":"9E","stokakhir":"8","tipe":"Elektrik","imageurl":"https://i.postimg.cc/c4Gyr3Dw/467.jpg"},
+{"id":"467","nomorstok":"SPICM00047","deskripsistok":"Lampu Philiphs 60","lokasi":"9E","stokakhir":"7","tipe":"Elektrik","imageurl":"https://i.postimg.cc/c4Gyr3Dw/467.jpg"},
 {"id":"468","nomorstok":"SPFIL00034","deskripsistok":"Lampu Uv Sankyo Denky","lokasi":"No Loc","stokakhir":"9","tipe":"Elektrik","imageurl":"https://i.postimg.cc/8CYK68bs/468.jpg"},
 {"id":"469","nomorstok":"21617363/21617363A","deskripsistok":"CUTTER 125S / Knife","lokasi":"POS1","stokakhir":"2","tipe":"GreatView","imageurl":"https://i.postimg.cc/kGpPJ2wz/469.jpg"},
 {"id":"470","nomorstok":"21617368","deskripsistok":"RIGHT FOLDING FLAP","lokasi":"POS1","stokakhir":"0","tipe":"GreatView","imageurl":"https://i.postimg.cc/kgkr0hVr/470.jpg"},
@@ -1038,8 +1038,8 @@
 {"id":"1087","nomorstok":"41013038A","deskripsistok":"BELT","lokasi":"POS3","stokakhir":"1","tipe":"GreatView2","imageurl":"https://i.postimg.cc/TPSpNJz5/1087.jpg"},
 {"id":"1088","nomorstok":"21611103","deskripsistok":"Super Heater","lokasi":"POSBox","stokakhir":"1","tipe":"GreatView2","imageurl":"https://i.postimg.cc/G2y9WsR7/1088.jpg"},
 {"id":"1089","nomorstok":"No Code","deskripsistok":"Service Kit EPDM Unique SSV Aseptic Change-Over Valve 51/DN50/2\" (9611926617)","lokasi":"No Loc","stokakhir":"0","tipe":"Proses","imageurl":"https://i.postimg.cc/vZzcPb12/1089.jpg"},
-{"id":"1090","nomorstok":"No Code","deskripsistok":"Hyspin Aws 100","lokasi":"No Loc","stokakhir":"0","tipe":"Proses","imageurl":"https://i.postimg.cc/6pNjXJWN/1090.jpg"},
+{"id":"1090","nomorstok":"No Code","deskripsistok":"Hyspin Aws 100","lokasi":"No Loc","stokakhir":"-10","tipe":"Proses","imageurl":"https://i.postimg.cc/6pNjXJWN/1090.jpg"},
 {"id":"1091","nomorstok":"41310233","deskripsistok":"SUPER HEATER (Long)","lokasi":"POS11","stokakhir":"2","tipe":"GreatView","imageurl":"https://i.postimg.cc/JzMrVR1Z/1091.jpg"},
-{"id":"1092","nomorstok":"No Code","deskripsistok":"Castrol Alpa SP 320","lokasi":"Workshop","stokakhir":"0","tipe":"GreatView","imageurl":"https://i.postimg.cc/3RnNKT5f/1092.jpg"},
+{"id":"1092","nomorstok":"No Code","deskripsistok":"Castrol Alpa SP 320","lokasi":"Workshop","stokakhir":"-7100","tipe":"GreatView","imageurl":"https://i.postimg.cc/3RnNKT5f/1092.jpg"},
 {"id":"1093","nomorstok":"No Code","deskripsistok":"Castrol Hyspin HLP 32","lokasi":"Workshop","stokakhir":"0","tipe":"GreatView","imageurl":"https://i.postimg.cc/QCmy4f7T/1093.jpg"}
 ]
