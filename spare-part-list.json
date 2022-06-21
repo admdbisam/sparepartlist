@@ -748,7 +748,7 @@
 {"id":"735","nomorstok":"31219287","deskripsistok":"SCREW HEX.SOCK.HD.MC6S-M5X20 A2-70","lokasi":"POS6","stokakhir":"7","tipe":"GreatView","imageurl":"https://i.postimg.cc/KzgMrHsH/735.jpg"},
 {"id":"736","nomorstok":"31219556","deskripsistok":"SCREW HEX.SOCK.HD.MC6S-M6X35 10.9","lokasi":"POS6","stokakhir":"5","tipe":"GreatView","imageurl":"https://i.postimg.cc/x8Dbs3wT/736.jpg"},
 {"id":"737","nomorstok":"11110001","deskripsistok":"HYDRAULIC CYLINDERD40X130","lokasi":"POS6","stokakhir":"1","tipe":"GreatView","imageurl":"https://i.postimg.cc/6qr4FGKV/737.jpg"},
-{"id":"738","nomorstok":"21616180","deskripsistok":"LONGITUDINAL ROLLER","lokasi":"POS6","stokakhir":"-8","tipe":"GreatView","imageurl":"https://i.postimg.cc/W1p8XHQ7/738.jpg"},
+{"id":"738","nomorstok":"21616180","deskripsistok":"LONGITUDINAL ROLLER","lokasi":"POS6","stokakhir":"-9","tipe":"GreatView","imageurl":"https://i.postimg.cc/W1p8XHQ7/738.jpg"},
 {"id":"739","nomorstok":"41412908","deskripsistok":"FLANGE BUSHING, 15X21X20 MM","lokasi":"POS6","stokakhir":"10","tipe":"GreatView","imageurl":"https://i.postimg.cc/J7ZXsSXy/739.jpg"},
 {"id":"740","nomorstok":"41410078","deskripsistok":"INDUCTOR","lokasi":"POS6","stokakhir":"0","tipe":"GreatView","imageurl":"https://i.postimg.cc/ry3L6S8W/740.jpg"},
 {"id":"741","nomorstok":"41210005A","deskripsistok":"WORM GEAR","lokasi":"POS6","stokakhir":"1","tipe":"GreatView","imageurl":"https://i.postimg.cc/ncxDBTK3/741.jpg"},
@@ -1040,6 +1040,6 @@
 {"id":"1089","nomorstok":"No Code","deskripsistok":"Service Kit EPDM Unique SSV Aseptic Change-Over Valve 51/DN50/2\" (9611926617)","lokasi":"No Loc","stokakhir":"0","tipe":"Proses","imageurl":"https://i.postimg.cc/vZzcPb12/1089.jpg"},
 {"id":"1090","nomorstok":"No Code","deskripsistok":"Hyspin Aws 100","lokasi":"No Loc","stokakhir":"-10","tipe":"Proses","imageurl":"https://i.postimg.cc/6pNjXJWN/1090.jpg"},
 {"id":"1091","nomorstok":"41310233","deskripsistok":"SUPER HEATER (Long)","lokasi":"POS11","stokakhir":"2","tipe":"GreatView","imageurl":"https://i.postimg.cc/JzMrVR1Z/1091.jpg"},
-{"id":"1092","nomorstok":"No Code","deskripsistok":"Castrol Alpa SP 320","lokasi":"Workshop","stokakhir":"-8400","tipe":"GreatView","imageurl":"https://i.postimg.cc/3RnNKT5f/1092.jpg"},
-{"id":"1093","nomorstok":"No Code","deskripsistok":"Castrol Hyspin HLP 32","lokasi":"Workshop","stokakhir":"0","tipe":"GreatView","imageurl":"https://i.postimg.cc/QCmy4f7T/1093.jpg"}
+{"id":"1092","nomorstok":"No Code","deskripsistok":"Castrol Alpa SP 320","lokasi":"Workshop","stokakhir":"-9.4","tipe":"GreatView","imageurl":"https://i.postimg.cc/3RnNKT5f/1092.jpg"},
+{"id":"1093","nomorstok":"No Code","deskripsistok":"Castrol Hyspin HLP 32","lokasi":"Workshop","stokakhir":"-10","tipe":"GreatView","imageurl":"https://i.postimg.cc/QCmy4f7T/1093.jpg"}
 ]
