@@ -268,7 +268,7 @@
 {"id":"267","nomorstok":"SPISE00029","deskripsistok":"Gasket 1 Inch (HS)","lokasi":"30B","stokakhir":"25","tipe":"Proses","imageurl":"https://i.postimg.cc/sxF5tmCN/267.jpg"},
 {"id":"268","nomorstok":"No Code","deskripsistok":"Seal strainer","lokasi":"31B","stokakhir":"0","tipe":"Proses","imageurl":"No Image"},
 {"id":"269","nomorstok":"SPTPI00023","deskripsistok":"SUPPORT RING 69 ( 6-4722 1178 34 )","lokasi":"33B","stokakhir":"0","tipe":"Proses","imageurl":"No Image"},
-{"id":"270","nomorstok":"SPISE00030","deskripsistok":"Gasket 1.5 Inch (HS)","lokasi":"35B","stokakhir":"29","tipe":"Proses","imageurl":"https://i.postimg.cc/HnQbHMps/270.jpg"},
+{"id":"270","nomorstok":"SPISE00030","deskripsistok":"Gasket 1.5 Inch (HS)","lokasi":"35B","stokakhir":"129","tipe":"Proses","imageurl":"https://i.postimg.cc/HnQbHMps/270.jpg"},
 {"id":"271","nomorstok":"No Code","deskripsistok":"O Ring 62,87 x 5,33 ( 6-4722 6562 47 )","lokasi":"36B","stokakhir":"0","tipe":"Proses","imageurl":"No Image"},
 {"id":"272","nomorstok":"No Code","deskripsistok":"Sparepart kit ( 6-31801 2190 1 )","lokasi":"37B","stokakhir":"0","tipe":"Proses","imageurl":"No Image"},
 {"id":"273","nomorstok":"SPSEL00035","deskripsistok":"FERRULE UK. 4 INCH","lokasi":"38B","stokakhir":"12","tipe":"Proses","imageurl":"https://i.postimg.cc/vHsWh0z1/273.jpg"},
@@ -991,5 +991,6 @@
 {"id":"969","nomorstok":"No Code","deskripsistok":"Seal Mangkok CIP","lokasi":"36C","stokakhir":"13","tipe":"TetraPax","imageurl":"https://i.postimg.cc/d1SSmBBZ/1100.jpg"},
 {"id":"970","nomorstok":"No Code","deskripsistok":"Seal Tank Peroxide 3x3,5","lokasi":"37C","stokakhir":"9","tipe":"TetraPax","imageurl":"https://i.postimg.cc/cCp9PLPs/1101.jpg"},
 {"id":"971","nomorstok":"No Code","deskripsistok":"Roda Gigi Teplon (Straw)","lokasi":"33C","stokakhir":"1","tipe":"TetraPax Straw Applicator","imageurl":"https://i.postimg.cc/y6DVqp25/1102.jpg"},
-{"id":"972","nomorstok":"90459-1382","deskripsistok":"Catridge element,1,10kw 130,0m","lokasi":"34C","stokakhir":"2","tipe":"TetraPax","imageurl":"https://i.postimg.cc/Dy39MWG4/1103.jpg"}
+{"id":"972","nomorstok":"90459-1382","deskripsistok":"Catridge element,1,10kw 130,0m","lokasi":"34C","stokakhir":"2","tipe":"TetraPax","imageurl":"https://i.postimg.cc/Dy39MWG4/1103.jpg"},
+{"id":"973","nomorstok":"No Code","deskripsistok":"Oring Tubular UHT Nanhua","lokasi":"18B","stokakhir":"50","tipe":"Proses","imageurl":"https://i.postimg.cc/tT2jPhwJ/1104.jpg"}
 ]
