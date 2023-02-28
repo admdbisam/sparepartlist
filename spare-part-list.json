@@ -816,5 +816,10 @@
 {"id":"800","nomorstok":"315202-0110","deskripsistok":"O-ring,12,10x1,60mm NBR-70A","lokasi":"46C","stokakhir":"4","tipe":"TetraPax","imageurl":"https://i.postimg.cc/qvsDdN4B/1118.jpg"},
 {"id":"801","nomorstok":"90459-5936","deskripsistok":"Rotating Seal,12,0/16,0mm FKM","lokasi":"47C","stokakhir":"8","tipe":"TetraPax","imageurl":"https://i.postimg.cc/C59rwDR5/1119.jpg"},
 {"id":"802","nomorstok":"3633590-0000","deskripsistok":"Plunger","lokasi":"48C","stokakhir":"4","tipe":"TetraPax","imageurl":"https://i.postimg.cc/yN7Q678m/1120.jpg"},
-{"id":"803","nomorstok":"752288-0000","deskripsistok":"Sleeve","lokasi":"49C","stokakhir":"4","tipe":"TetraPax","imageurl":"https://i.postimg.cc/SxF1560t/1121.jpg"}
+{"id":"803","nomorstok":"752288-0000","deskripsistok":"Sleeve","lokasi":"49C","stokakhir":"4","tipe":"TetraPax","imageurl":"https://i.postimg.cc/SxF1560t/1121.jpg"},
+{"id":"804","nomorstok":"No Code","deskripsistok":"Pressure gauge MIP135 SMS38 0-2,5MPa/0-25bar(g) HP nut ( 90503-6556/90532-3779)","lokasi":"No Loc","stokakhir":"0","tipe":"Proses","imageurl":"No Image"},
+{"id":"805","nomorstok":"No Code","deskripsistok":"Temperature Sensor Pt-100 4-wire G1/8\" 1/3 DIN B 25mm 15m (6-31801 7050 2)","lokasi":"Di Dus","stokakhir":"3","tipe":"Proses","imageurl":"https://i.postimg.cc/vmNfQSmV/1127.jpg"},
+{"id":"806","nomorstok":"No Code","deskripsistok":"Temperature Transmitter,RTD,TPT12 G L=25,00mm (90510-5633)","lokasi":"Di Laci","stokakhir":"1","tipe":"Proses","imageurl":"https://i.postimg.cc/fTqbbMgq/1128.jpg"},
+{"id":"807","nomorstok":"751769-0000","deskripsistok":"Sleeve","lokasi":"50C","stokakhir":"0","tipe":"TetraPax","imageurl":"No Image"},
+{"id":"808","nomorstok":"No Code","deskripsistok":"Bearing 6010-2RS1","lokasi":"POS7","stokakhir":"0","tipe":"GreatView","imageurl":"No Image"}
 ]
